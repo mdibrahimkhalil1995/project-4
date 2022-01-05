@@ -1,0 +1,8 @@
+
+
+
+.introduction-img img{
+    transform: scaleX(-1);
+    width: 50%;
+
+}
